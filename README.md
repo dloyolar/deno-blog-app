@@ -1,4 +1,4 @@
-# fresh project
+# Blog App - using Deno Fresh 🍋
 
 ### Usage
 
