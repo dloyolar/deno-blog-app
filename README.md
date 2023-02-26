@@ -1,4 +1,4 @@
-# Blog App - using Deno Fresh 🍋
+# Blog App - Using Deno Fresh 🍋
 
 ### Usage
 
